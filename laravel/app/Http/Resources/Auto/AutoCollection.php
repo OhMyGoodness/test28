@@ -5,7 +5,7 @@ namespace App\Http\Resources\Auto;
 use Illuminate\Http\Resources\Json\ResourceCollection;
 
 /**
- * Class AutoMarkCollection
+ * Class AutoCollection
  * @package Http\Resources\Auto
  */
 class AutoCollection extends ResourceCollection
