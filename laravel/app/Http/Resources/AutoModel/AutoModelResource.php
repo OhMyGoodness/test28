@@ -7,7 +7,7 @@ use Illuminate\Http\Request;
 use Illuminate\Http\Resources\Json\JsonResource;
 
 /**
- * Class CityResource
+ * Class AutoModelResource
  * @package Http\Resources\AutoModel
  */
 class AutoModelResource extends JsonResource
