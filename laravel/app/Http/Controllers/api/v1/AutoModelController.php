@@ -7,7 +7,7 @@ use App\Http\Resources\AutoModel\AutoModelCollection;
 use App\Interfaces\AutoModel\AutoModelServiceInterface;
 
 /**
- * AutoModelController
+ * Class AutoModelController
  * @package Http\Controllers\api\v1
  */
 class AutoModelController extends Controller
