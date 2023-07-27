@@ -7,7 +7,7 @@ use Illuminate\Foundation\Http\FormRequest;
 use Illuminate\Http\Exceptions\HttpResponseException;
 
 /**
- * Class OrderRequest
+ * Class AutoRequest
  * @package Http\Requests\Auto
  */
 class AutoRequest extends FormRequest
